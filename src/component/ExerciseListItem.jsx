@@ -19,6 +19,7 @@ export default function ExerciseListItem({item}) {
     
     exerciseContainer: {
       padding: 20,
+      marginHorizontal: 3,
       borderRadius: 10,
       backgroundColor: '#f9f9f9',
       shadowColor: '#000',
